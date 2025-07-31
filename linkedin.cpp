@@ -5,6 +5,8 @@
 #include <algorithm>
 using namespace std;
 
+//Think like what db you would have , //what operations you would have on it
+
 // ------------ User Profile ------------
 class Profile
 {
